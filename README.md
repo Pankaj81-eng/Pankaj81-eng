@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Pankaj Kumar (aka Pankaj81-eng)
 
-<!--
-**Pankaj81-eng/Pankaj81-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **QA Engineer** exploring the exciting intersection of **Testing, AI, and Automation**.
 
-Here are some ideas to get you started:
+🔧 Technologies I work with:
+- 🧪 QA Automation (Selenium, Python)
+- 🤖 AI/LLMs (OpenAI, Hugging Face, LangChain, Mistral)
+- 🧠 RAG-based tools
+- ⚙️ Streamlit, Gradio, Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 Currently learning: Custom AI Agents, LangChain advanced features, and open-source contributions.
+
+📫 Let's connect on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/pankajkumarqa/))
+
+Thanks!
+
