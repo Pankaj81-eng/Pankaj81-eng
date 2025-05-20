@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Pankaj Kumar (aka Pankaj81-eng)
-
-I'm a passionate **QA Engineer** exploring the exciting intersection of **Testing, AI, and Automation**.
+# 👋 Hi, I'm Pankaj Kumar. I'm a passionate **QA Engineer** exploring the exciting intersection of **Testing, AI, and Automation**.
 
 🔧 Technologies I work with:
 - 🧪 QA Automation (Selenium, Python)
