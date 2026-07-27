@@ -2,9 +2,11 @@
 
 # Pankaj Kumar
 
-**Senior AI Engineer & AI Solutions Engineer**
+**Senior Lead, AI Engineering · AI Solutions Engineer**
 
-Agentic AI · GraphRAG · Knowledge Graphs · Azure AI
+Building enterprise Agentic AI at [Kyndryl](https://www.kyndryl.com)'s AI Innovation Lab
+
+Azure AI Foundry · GraphRAG · Knowledge Graphs · Python
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_site-0EA5E9?style=for-the-badge)](https://pankaj-portfolio-gamma-three.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajkumarconnect/)
@@ -16,11 +18,13 @@ Agentic AI · GraphRAG · Knowledge Graphs · Azure AI
 
 ## About
 
-Twenty years of enterprise software delivery, now focused entirely on production AI.
+20+ years of enterprise software delivery, with the last 5+ focused on Artificial Intelligence.
 
-I work inside an Enterprise AI Innovation Lab, architecting and building Agentic AI platforms, Knowledge Graphs and GraphRAG systems for major UK organisations - including a major UK bank and enterprise financial-services clients, across Mortgages, Personal Loans and customer-facing AI.
+At Kyndryl's AI Innovation Lab I design and build enterprise AI solutions using Agentic AI, Knowledge Graphs, GraphRAG and modern LLM frameworks - intelligent assistants, enterprise modernization platforms, multi-agent systems and AI-powered engineering tooling. I've delivered across Banking, Mortgages, Insurance, Payments, Retail and Healthcare.
 
 That background is the difference in how I build. I don't prototype and walk away. I design AI systems that survive enterprise reality: security review, governance, Responsible AI requirements and real users.
+
+I enjoy translating complex business problems into scalable AI solutions by combining software engineering, cloud technologies, graph databases and large language models. Beyond project work I mentor engineers, join hackathons, and share AI knowledge through community initiatives.
 
 📍 Liverpool, United Kingdom
 
@@ -30,10 +34,11 @@ That background is the difference in how I build. I don't prototype and walk awa
 
 | | |
 |---|---|
-| **Agentic AI systems** | Multi-agent platforms with LangGraph workflows, function calling and human-in-the-loop governance |
-| **GraphRAG & Knowledge Graphs** | Neo4j graph modelling and relationship-aware retrieval that goes beyond vector search |
+| **Agentic AI & multi-agent systems** | LangGraph workflows, function calling and human-in-the-loop governance |
+| **Knowledge Graphs & GraphRAG** | Neo4j and Cypher modelling, relationship-aware retrieval that goes beyond vector search |
 | **Enterprise AI architecture** | End-to-end design: LLM orchestration, retrieval strategy, secure deployment |
-| **Regulated-industry delivery** | Banking and insurance AI - underwriting, claims, customer-facing solutions |
+| **AI assistants & automation** | Intelligent assistants and enterprise modernization platforms |
+| **Technical leadership** | AI innovation, mentoring engineers and coaching teams into AI |
 
 ---
 
@@ -60,13 +65,13 @@ That background is the difference in how I build. I don't prototype and walk awa
 `LangGraph` `LangChain` `Semantic Kernel` `Function Calling` `Prompt Engineering` `LLM Evaluation`
 
 **Knowledge & Retrieval**
-`Neo4j` `GraphRAG` `FAISS` `Azure AI Search` `Enterprise RAG`
+`Neo4j` `Cypher` `GraphRAG` `FAISS` `Azure AI Search` `Enterprise RAG`
 
 **Azure AI**
 `AI Foundry` `Azure OpenAI` `Document Intelligence` `Azure Speech` `Prompt Flow`
 
 **Engineering**
-`Python` `FastAPI` `TypeScript` `React` `Streamlit` `Supabase` `SQL`
+`Python` `FastAPI` `REST APIs` `React` `TypeScript` `Streamlit` `Pandas` `SQLite` `Supabase`
 
 **Platform**
 `Docker` `Podman` `Azure DevOps` `GitHub Actions` `GCP`
