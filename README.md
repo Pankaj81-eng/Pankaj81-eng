@@ -48,7 +48,7 @@ I enjoy translating complex business problems into scalable AI solutions by comb
 
 | Project | Domain | Code |
 |---|---|---|
-| **Python Mentor - AI Tutor**<br/><sub>Personalised AI tutor with gamified learning paths</sub> | Agentic AI | 🔓 [Repo](https://github.com/Pankaj81-eng/TechTales-Python-Mentor) · [Live demo](https://techtales-mentor.streamlit.app/) |
+| **Python Mentor**<br/><sub>Python learning platform with AST-based feedback and gamification</sub> | EdTech / Learning Tools | 🔓 [Repo](https://github.com/Pankaj81-eng/TechTales-Python-Mentor) · [Live demo](https://techtales-mentor.streamlit.app/) |
 | **VMware Migration Assistant**<br/><sub>Discovery + Planning agents over a Neo4j knowledge graph</sub> | Enterprise AI | 📄 [Case study](https://github.com/Pankaj81-eng/my-project-journey/blob/main/Projects/Enterprise-AI-Solutions/Infrastructure-Discovery-Platform/README.md) |
 | **Kubernetes Consolidation Assistant**<br/><sub>Agentic AI for infrastructure modernisation planning</sub> | Enterprise AI | 📄 [Case study](https://github.com/Pankaj81-eng/my-project-journey/blob/main/Projects/Enterprise-AI-Solutions/Kubernetes-Consolidation-Assistant/README.md) |
 | **Voice Pizza Agent**<br/><sub>Voice-first multi-agent assistant with function calling</sub> | Agentic AI | 📄 [Case study](https://github.com/Pankaj81-eng/my-project-journey/blob/main/Projects/Agentic-AI/Voice-Pizza-Agent/README.md) · 🎥 [Demo](https://www.youtube.com/watch?v=KLMR7H7rU3g) |
