@@ -48,6 +48,7 @@ I enjoy translating complex business problems into scalable AI solutions by comb
 
 | Project | Domain | Code |
 |---|---|---|
+| **RootSeekers - Incident RCA Copilot**<br/><sub>LangGraph multi-agent RCA for Google Cloud incidents, built for a Google Cloud hackathon</sub> | Agentic AI | 🔓 [Repo](https://github.com/Pankaj81-eng/Hackathon2026_RootSeekers) |
 | **Python Mentor**<br/><sub>Python learning platform with AST-based feedback and gamification</sub> | EdTech / Learning Tools | 🔓 [Repo](https://github.com/Pankaj81-eng/TechTales-Python-Mentor) · [Live demo](https://techtales-mentor.streamlit.app/) |
 | **VMware Migration Assistant**<br/><sub>Discovery + Planning agents over a Neo4j knowledge graph</sub> | Enterprise Agentic AI | 📄 [Case study](https://github.com/Pankaj81-eng/my-project-journey/blob/main/Projects/Enterprise-AI-Solutions/Infrastructure-Discovery-Platform/README.md) |
 | **Kubernetes Consolidation Assistant**<br/><sub>Agentic AI for infrastructure modernisation planning</sub> | Enterprise Agentic AI | 📄 [Case study](https://github.com/Pankaj81-eng/my-project-journey/blob/main/Projects/Enterprise-AI-Solutions/Kubernetes-Consolidation-Assistant/README.md) |
