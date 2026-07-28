@@ -4,7 +4,7 @@
 
 **Senior Lead, AI Engineering · AI Solutions Engineer**
 
-Building enterprise Agentic AI at [Kyndryl](https://www.kyndryl.com)'s AI Innovation Lab
+Building enterprise Agentic AI at an AI Innovation Lab
 
 Azure AI Foundry · GraphRAG · Knowledge Graphs · Python
 
@@ -20,7 +20,7 @@ Azure AI Foundry · GraphRAG · Knowledge Graphs · Python
 
 20+ years of enterprise software delivery, with the last 5+ focused on Artificial Intelligence.
 
-At Kyndryl's AI Innovation Lab I design and build enterprise AI solutions using Agentic AI, Knowledge Graphs, GraphRAG and modern LLM frameworks - intelligent assistants, enterprise modernization platforms, multi-agent systems and AI-powered engineering tooling. I've delivered across Banking, Mortgages, Insurance, Payments, Retail and Healthcare.
+At an Enterprise AI Innovation Lab I design and build enterprise AI solutions using Agentic AI, Knowledge Graphs, GraphRAG and modern LLM frameworks - intelligent assistants, enterprise modernization platforms, multi-agent systems and AI-powered engineering tooling. I've delivered across Banking, Mortgages, Insurance, Payments, Retail and Healthcare.
 
 That background is the difference in how I build. I don't prototype and walk away. I design AI systems that survive enterprise reality: security review, governance, Responsible AI requirements and real users.
 
