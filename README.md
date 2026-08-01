@@ -62,20 +62,32 @@ I enjoy translating complex business problems into scalable AI solutions by comb
 
 ## Tech I work with
 
-**AI & Orchestration**
-`LangGraph` `LangChain` `Semantic Kernel` `Function Calling` `Prompt Engineering` `LLM Evaluation`
+**Agentic AI & Orchestration**
+`Agentic AI` `LangGraph` `LangChain` `Multi-Agent Workflows` `Function Calling` `MCP (Model Context Protocol)` `Semantic Kernel`
 
-**Knowledge & Retrieval**
-`Neo4j` `Cypher` `GraphRAG` `FAISS` `Azure AI Search` `Enterprise RAG`
+**Knowledge Graphs & RAG**
+`GraphRAG` `Knowledge Graphs` `Enterprise RAG` `Neo4j` `FAISS / Vector Search` `Azure AI Search`
 
-**Azure AI**
-`AI Foundry` `Azure OpenAI` `Document Intelligence` `Azure Speech` `Prompt Flow`
+**Azure AI Stack**
+`Azure AI Foundry` `Azure OpenAI` `Azure AI Document Intelligence` `Azure Machine Learning` `Azure Speech` `Prompt Flow`
 
-**Engineering**
-`Python` `FastAPI` `REST APIs` `React` `TypeScript` `Streamlit` `Pandas` `SQLite` `Supabase`
+**Programming**
+`Python` `TypeScript / JavaScript` `SQL` `Bash`
 
-**Platform**
-`Docker` `Podman` `Azure DevOps` `GitHub Actions` `GCP`
+**Backend & Frameworks**
+`FastAPI` `Streamlit` `Flask` `REST APIs` `Supabase`
+
+**Frontend**
+`React` `Vite` `Vis.js` `Tailwind CSS`
+
+**DevOps & Cloud**
+`Docker` `Podman` `GitHub / CI-CD` `Azure DevOps` `Google Cloud Platform`
+
+**Quality Engineering**
+`Test Strategy` `AI-Assisted Testing` `Selenium` `LLM Evaluation`
+
+**AI Practice & Domain**
+`Prompt Engineering` `Responsible AI & Governance` `Banking & Insurance AI` `Underwriting & Claims Workflows`
 
 ---
 
